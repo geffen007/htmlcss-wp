@@ -17,18 +17,7 @@ h2, h3 {
     line-height: 50px;
 }
 
-nav li {
-    display: inline-block;
-    text-transform: uppercase;
-    color: white;
-    padding-left: 15px;
-    padding-right: 15px;
-    line-height: 50px;
-}
 
-nav li:hover {
-    background-color: #302b27;
-}
 
 h5{
     color: #9d9d9d;
